@@ -1,2 +1,2 @@
 # bennet
-Fully distributed realtime NoSQL Database completly written in Python
+Fully distributed realtime NoSQL Database completely written in Python
